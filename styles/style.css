@@ -5,24 +5,51 @@
     width: 3320px;
     height: 1000px;
     border-radius: 16px;
-    margin: 50px 640px;
-    
-    
+    margin: 0px 640px;
+
+
+
 }
 
 .banner-information {
     color: aliceblue;
-    
+
 }
 
 .title {
-font-size: 32px;
-font-family:Arial, Helvetica, sans-serif;
-margin: 177px 531px 383px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 177px 531px 10px;
 }
-.sub-title{
-font-size: 72px;
-margin:  233px 344px 177px;
-width: 632px;
-height: 190px;
+
+.sub-title {
+    font-size: 72px;
+    margin: 30px 400px 177px;
+    width: 632px;
+    height: 190px;
+}
+
+/* main related style */
+.first{
+    /* text-align: center; */
+    /* margin: 1px 100px; */
+    margin: 20px 900px;
+}
+
+/* first section related style */
+.off{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 99px;
+    font-weight: 700px;
+}
+.info{
+    color: brown;
+    font-size: 24px;
+    font-weight: 400px;
+    margin-bottom: 30px;
+}
+.all{
+font-size: 48px;
+font-weight: 700px;
 }
