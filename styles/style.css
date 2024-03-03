@@ -1,0 +1,28 @@
+/* header related style */
+.hello {
+    background-image: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 3320px;
+    height: 1000px;
+    border-radius: 16px;
+    margin: 50px 640px;
+    
+    
+}
+
+.banner-information {
+    color: aliceblue;
+    
+}
+
+.title {
+font-size: 32px;
+font-family:Arial, Helvetica, sans-serif;
+margin: 177px 531px 383px;
+}
+.sub-title{
+font-size: 72px;
+margin:  233px 344px 177px;
+width: 632px;
+height: 190px;
+}
